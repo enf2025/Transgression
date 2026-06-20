@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "description": "Trans (across) + Progression = Transgression",
+    "min_format": [
+      101
+    ],
+    "max_format": [
+      107
+    ]
+  },
+  "features": {
+    "enabled": [
+      "minecraft:minecart_improvements",
+      "minecraft:trade_rebalance"
+    ]
+  }
+}

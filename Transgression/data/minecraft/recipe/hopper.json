@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": "minecraft:chest",
+    "I": "minecraft:iron_ingot",
+    "i": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "i i",
+    "iCi",
+    " I "
+  ],
+  "result": {
+    "id": "minecraft:hopper"
+  }
+}

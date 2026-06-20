@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bed",
+  "key": {
+    "#": "minecraft:yellow_wool",
+    "X": "#minecraft:planks",
+    "0": "minecraft:string" 
+  },
+  "pattern": [
+    "##O",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecraft:yellow_bed"
+  }
+}

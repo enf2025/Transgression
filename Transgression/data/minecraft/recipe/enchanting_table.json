@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "o#o",
+    "###"
+  ],
+  "key": {
+    "B": "minecraft:book",
+    "o": "minecraft:amethyst_shard",
+    "#": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "minecraft:enchanting_table",
+    "count": 1
+  }
+}
