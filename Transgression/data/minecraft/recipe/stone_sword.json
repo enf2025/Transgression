@@ -3,7 +3,6 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:stick",
-    "X": "#minecraft:stone_tool_materials",
     "I": "#minecraft:stone_tool_tip"
   },
   "pattern": [
