@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": "minecraft:stone",
-    "I": "#minecraft:stone_tool_tip"
+    "I": "minecraft:copper_ingot"
   },
   "pattern": [
     " I ",
