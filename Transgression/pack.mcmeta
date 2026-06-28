@@ -10,8 +10,7 @@
   },
   "features": {
     "enabled": [
-      "minecraft:minecart_improvements",
-      "minecraft:trade_rebalance"
+      "minecraft:minecart_improvements"
     ]
   }
 }
