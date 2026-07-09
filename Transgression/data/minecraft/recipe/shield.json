@@ -1,19 +1,36 @@
 {
   "type": "minecraft:crafting_shaped",
+  "group": "shield",
   "category": "equipment",
   "key": {
     "W": "#minecraft:wooden_tool_materials",
-    "o": "minecraft:iron_ingot"
+    "O": "minecraft:iron_nugget"
   },
   "pattern": [
-    "WoW",
-    "WWW",
-    " W "
+    "oWo",
+    "ooo",
+    " o "
   ],
   "result": {
     "id": "minecraft:shield",
     "components": {
-      "damage": 312
+      "max_damage": 225,
+      "minecraft:item_name": "Iron Shield",
+      "minecraft:lore": [
+        "",
+        {
+          "text": "When Using:",
+          "color": "gray"
+        },
+        {
+          "text": "100% Damage Deduction",
+          "color": "dark_green"
+        },
+        {
+          "text": "180* Block Angle",
+          "color": "dark_green"
+        }
+      ]
     }
   }
 }
