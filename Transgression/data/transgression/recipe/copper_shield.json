@@ -8,7 +8,7 @@
     " C "
   ],
   "key": {
-    "B": "copper_block",
+    "B": "#minecraft:copper",
     "C": "minecraft:copper_ingot"
   },
   "result": {
@@ -69,11 +69,11 @@
           "color": "gray"
         },
         {
-          "text": "75% Damage Deduction",
+          "text": "75% Damage Reduction",
           "color": "dark_green"
         },
         {
-          "text": "30* Block Angle",
+          "text": "30 Block Angle",
           "color": "dark_green"
         }
       ]

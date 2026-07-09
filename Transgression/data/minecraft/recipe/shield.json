@@ -4,7 +4,7 @@
   "category": "equipment",
   "key": {
     "W": "#minecraft:wooden_tool_materials",
-    "O": "minecraft:iron_nugget"
+    "o": "minecraft:iron_ingot"
   },
   "pattern": [
     "oWo",
@@ -23,11 +23,11 @@
           "color": "gray"
         },
         {
-          "text": "100% Damage Deduction",
+          "text": "100% Damage Reduction",
           "color": "dark_green"
         },
         {
-          "text": "180* Block Angle",
+          "text": "180 Block Angle",
           "color": "dark_green"
         }
       ]
