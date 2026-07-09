@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "aquired_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:amethyst_shard"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "transgression:copper_shield"
+    ]
+  }
+}
