@@ -14,8 +14,7 @@
   "rewards": {
     "recipes": [
       "transgression:echo_shard",
-      "transgression:experience_bottle",
-      "minecraft:enchanting_table"
+      "transgression:experience_bottle"
     ]
   }
 }
