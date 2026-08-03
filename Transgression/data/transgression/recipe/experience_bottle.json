@@ -1,16 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " # ",
-    "#u#",
-    " # "
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:echo_shard",
+    "minecraft:echo_shard",
+    "minecraft:echo_shard",
+    "minecraft:glass_bottle"
   ],
-  "key": {
-    "#": "minecraft:echo_shard",
-    "u": "minecraft:glass_bottle"
-  },
   "result": {
     "id": "minecraft:experience_bottle",
-    "count": 4
+    "count": 3
   }
 }

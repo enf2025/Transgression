@@ -2,9 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
     "minecraft:lapis_lazuli"
   ],
   "result": {
-    "id": "minecraft:echo_shard"
+    "id": "minecraft:echo_shard",
+    "count": 3
   }
 }
