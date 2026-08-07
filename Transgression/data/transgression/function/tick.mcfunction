@@ -1,0 +1,1 @@
+execute as @a if items entity @s container.* trident[!repairable={items:["prismarine_crystals", "prismarine_shard"]}] run function transgression:get_tridents
