@@ -11,6 +11,7 @@ A quick overview of non-iron changes:
 * Rails are now much cheaper and can go nearly 4 times as fast
 * Shields are a LOT more expensive
 
+Finally, note that I suggest using the villager rebalance experiment with this, just because the villager rebalance experiment is cool and makes mending harder and less annoying to get. It used to be included here, but because a major change, and so easy to add on your own, I took it out. See the changes it makes [here](minecraft.wiki/w/Villager_Trade_Rebalance)
 
 ## Additions:
 
