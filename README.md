@@ -34,7 +34,7 @@ A quick overview of non-iron changes:
 
 * Arrows now craft in batches of eight
 
-#### Iron:
+### Iron:
 * Iron Ingots are about three times rarer
 	* Iron ore drops 2-4 raw iron, but
 	* Raw iron now smelts into nuggets, and
